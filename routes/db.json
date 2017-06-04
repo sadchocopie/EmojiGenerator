@@ -14,7 +14,7 @@
         "value": "😁"
       },
       {
-        "key": "face_with_tear_of_joy",
+        "key": "joy",
         "value": "😂"
       },
       {
@@ -22,7 +22,7 @@
         "value": "😃"
       },
       {
-        "key": "smiling_face_with_open_mouth_eyes",
+        "key": "happy",
         "value": "😄"
       },
       {
@@ -30,11 +30,12 @@
         "value": "😅"
       },
       {
-        "key": "smiling_face_with_open_mouth_hand_tight",
+        "key": "lol",
         "value": "😆"
       },
       {
-        "key": "smiling_face_with_halo",
+        "key": "blessed",
+
         "value": "😇"
       },
       {
@@ -42,7 +43,7 @@
         "value": "😉"
       },
       {
-        "key": "black_smiling_face",
+        "key": "flattered",
         "value": "😊"
       },
       {
@@ -58,11 +59,11 @@
         "value": "☺"
       },
       {
-        "key": "face_savouring_delicious_food",
+        "key": "savouring",
         "value": "😋"
       },
       {
-        "key": "relieved_face",
+        "key": "content",
         "value": "😌"
       },
       {
@@ -82,7 +83,7 @@
         "value": "😙"
       },
       {
-        "key": "kissing_face_with_closed_eyes",
+        "key": "-3-",
         "value": "😚"
       },
       {
@@ -102,11 +103,11 @@
         "value": "🤑"
       },
       {
-        "key": "nerd_face",
+        "key": "nerd",
         "value": "🤓"
       },
       {
-        "key": "smiling_face_with_sun_glass",
+        "key": "cool",
         "value": "😎"
       },
       {
@@ -114,7 +115,7 @@
         "value": "🤗"
       },
       {
-        "key": "smirking_face",
+        "key": "smirk",
         "value": "😏"
       },
       {
@@ -126,11 +127,11 @@
         "value": "😐"
       },
       {
-        "key": "expressionless_face",
+        "key": "speechless",
         "value": "😑"
       },
       {
-        "key": "unamused_face",
+        "key": "unamused",
         "value": "😒"
       },
       {
@@ -138,7 +139,7 @@
         "value": "🙄"
       },
       {
-        "key": "thinking_face",
+        "key": "think",
         "value": "🤔"
       },
       {
@@ -146,11 +147,11 @@
         "value": "😳"
       },
       {
-        "key": "disappointed_face",
+        "key": "disappointed",
         "value": "😞"
       },
       {
-        "key": "worried_face",
+        "key": "worried",
         "value": "😟"
       },
       {
@@ -158,15 +159,15 @@
         "value": "😠"
       },
       {
-        "key": "pouting_face",
+        "key": "angry",
         "value": "😡"
       },
       {
-        "key": "pensive_face",
+        "key": "pensive",
         "value": "😔"
       },
       {
-        "key": "confused_face",
+        "key": "hmm",
         "value": "😕"
       },
       {
@@ -178,19 +179,19 @@
         "value": "☹"
       },
       {
-        "key": "persevering_face",
+        "key": "pain",
         "value": "😣"
       },
       {
-        "key": "confounded_face",
+        "key": "confounded",
         "value": "😖"
       },
       {
-        "key": "tired_face",
+        "key": "tired",
         "value": "😫"
       },
       {
-        "key": "weary_face",
+        "key": "weary",
         "value": "😩"
       },
       {
@@ -206,7 +207,7 @@
         "value": "😱"
       },
       {
-        "key": "fearful_face",
+        "key": "fear",
         "value": "😨"
       },
       {
@@ -226,15 +227,15 @@
         "value": "😧"
       },
       {
-        "key": "crying_face",
+        "key": "crying",
         "value": "😢"
       },
       {
-        "key": "disappointed_but_relieved_face",
+        "key": "relieved",
         "value": "😥"
       },
       {
-        "key": "sleepy_face",
+        "key": "sleepy",
         "value": "😪"
       },
       {
@@ -242,7 +243,7 @@
         "value": "😓"
       },
       {
-        "key": "loudly_crying_face",
+        "key": "crying",
         "value": "😭"
       },
       {
@@ -250,7 +251,7 @@
         "value": "😵"
       },
       {
-        "key": "astonished_face",
+        "key": "astonished",
         "value": "😲"
       },
       {
@@ -270,19 +271,19 @@
         "value": "🤕"
       },
       {
-        "key": "sleeping_face",
+        "key": "sleeping",
         "value": "😴"
       },
       {
-        "key": "sleeping_symbol",
+        "key": "sleep",
         "value": "💤"
       },
       {
-        "key": "pile_of_poo",
+        "key": "shit",
         "value": "💩"
       },
       {
-        "key": "smiling_face_with_horns",
+        "key": "evil",
         "value": "😈"
       },
       {
@@ -374,7 +375,7 @@
         "value": "🙌🏿"
       },
       {
-        "key": "clapping_hand",
+        "key": "applause",
         "value": "👏"
       },
       {
