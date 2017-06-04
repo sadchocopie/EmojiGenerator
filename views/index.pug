@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  p hi #{title}
+
+  form(method='POST' action='/')
+    div.form-group
+      label(for='name') Input:
+      input#name.form-control(type='text', placeholder='Enter emoji here' name='name')
+    button.btn.btn-primary(type='submit') GIVE ME THE EMOJI BABY
