@@ -4,22 +4,22 @@ var db = require('./db.json');
 var async1 = require('async');
 var async2 = require('async')
 
-db = db.peoples.people;
+db = db.Data.data;
 /* GET home page. */
 router.get('/', function(req, res, next) {
   console.log("hi");
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: ':^)' });
 });
 
 //router.get('/rando', function(req,res, next) {
-//  console.log("HOLY");
+// console.log("HOLY");
   //res.send("in rando")
 //  res.render('index', { title: 'Express' });
 //});
 
 router.post('/', function(req, res, next) {
 
-    var input = req.body.name;
+    var input = req.body.name.toLowerCase();
     var parseInput = input.split(" ");
     var output = ""
 
