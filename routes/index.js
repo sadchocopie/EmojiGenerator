@@ -23,25 +23,23 @@ router.post('/', function(req, res, next) {
     var parseInput = input.split(" ");
     var output = ""
 
-
-
-  async1.each(parseInput, function(word, callback){
-    //iterates through emojis in db
-    console.log("print")
-    async2.each(db, function(emoji, callback){
-      //iterates through each emotion in an emoji
-      if( word == emoji["key"]){
-          output += String.fromCodePoint(emoji["value"].codePointAt(0)) + " ";
-          console.log(output);
-      }
-      callback()
-        }, function(err){});
-      callback()}, function(err){
-        //console.log(output)
-        //res.header("Content-Type", "application/json; charset=utf-8");
-        res.render('index', { title: output });
-      })
-
+    console.log("getting in");
+    async1.each(parseInput, function(word, callback){
+      //iterates through emojis in db
+      console.log("print")
+      async2.each(db, function(emoji, callback){
+        //iterates through each emotion in an emoji
+        if( word == emoji["key"]){
+            output += String.fromCodePoint(emoji["value"].codePointAt(0)) + " ";
+            console.log(output);
+        }
+        callback()
+          }, function(err){});
+        callback()}, function(err){
+          res.render('index', { title: output });
+        })
 });
+
+
 
 module.exports = router;

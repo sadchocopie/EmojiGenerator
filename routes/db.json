@@ -99,6 +99,14 @@
         "value": "😘"
       },
       {
+        "key": "cute",
+        "value": "😘"
+      },
+      {
+        "key": "pretty",
+        "value": "😘"
+      },
+      {
         "key": "kiss",
         "value": "😗"
       },
@@ -116,6 +124,10 @@
       },
       {
         "key": "rich",
+        "value": "🤑"
+      },
+      {
+        "key": "gamble",
         "value": "🤑"
       },
       {
@@ -156,6 +168,10 @@
       },
       {
         "key": "surprised",
+        "value": "😳"
+      },
+      {
+        "key": "omg",
         "value": "😳"
       },
       {
@@ -219,6 +235,10 @@
         "value": "😩"
       },
       {
+        "key": "sad",
+        "value": "😩"
+      },
+      {
         "key": "disgusted",
         "value": "😩"
       },
@@ -247,7 +267,7 @@
         "value": "😰"
       },
       {
-        "key": "hushed_face",
+        "key": "hushed",
         "value": "😯"
       },
       {
@@ -267,15 +287,11 @@
         "value": "😪"
       },
       {
-        "key": "face_with_cold_sweat",
-        "value": "😓"
-      },
-      {
         "key": "crying",
         "value": "😭"
       },
       {
-        "key": "dizzy_face",
+        "key": "dizzy",
         "value": "😵"
       },
       {
@@ -317,14 +333,6 @@
       {
         "key": "imp",
         "value": "👿"
-      },
-      {
-        "key": "japanese_ogre",
-        "value": "👹"
-      },
-      {
-        "key": "japanese_goblin",
-        "value": "👺"
       },
       {
         "key": "skull",
@@ -577,12 +585,36 @@
         "value": "👨🏻"
       },
       {
+        "key": "boyfriend",
+        "value": "👨🏻"
+      },
+      {
+        "key": "bf",
+        "value": "👨🏻"
+      },
+      {
         "key": "man",
+        "value": "👨🏽"
+      },
+      {
+        "key": "men",
+        "value": "👨🏽"
+      },
+      {
+        "key": "guy",
         "value": "👨🏽"
       },
       {
         "key": "asian",
         "value": "👩🏻"
+      },
+      {
+        "key": "girlfriend",
+        "value": "👩🏻"
+      },
+      {
+        "key": "gf",
+        "value": "👩🏼"
       },
       {
         "key": "blonde",
@@ -802,6 +834,10 @@
         "value": "🎒"
       },
       {
+          "key": "school",
+          "value": "🎒"
+        },
+      {
         "key": "pouch",
         "value": "👝"
       },
@@ -878,15 +914,7 @@
               "value": "🗜"
             },
             {
-              "key": "mini_disc",
-              "value": "💽"
-            },
-            {
-              "key": "floppy_disk",
-              "value": "💾"
-            },
-            {
-              "key": "optical_disc",
+              "key": "disc",
               "value": "💿"
             },
             {
@@ -942,11 +970,11 @@
               "value": "⏰"
             },
             {
-              "key": "hour_glass",
+              "key": "hourglass",
               "value": "⌛"
             },
             {
-              "key": "satellite_antenna",
+              "key": "antenna",
               "value": "📡"
             },
             {
@@ -954,11 +982,11 @@
               "value": "🔋"
             },
             {
-              "key": "electric_plug",
+              "key": "plug",
               "value": "🔌"
             },
             {
-              "key": "electric_light_bulb",
+              "key": "bulb",
               "value": "💡"
             },
             {
@@ -972,6 +1000,18 @@
 
             {
               "key": "buy",
+              "value": "💸"
+            },
+            {
+              "key": "bought",
+              "value": "💸"
+            },
+            {
+              "key": "money",
+              "value": "💸"
+            },
+            {
+              "key": "cash",
               "value": "💸"
             },
             {
@@ -1048,14 +1088,6 @@
               "value": "🏺"
             },
             {
-              "key": "crystal_ball",
-              "value": "🔮"
-            },
-            {
-              "key": "prayer_beads",
-              "value": "📿"
-            },
-            {
               "key": "barber",
               "value": "💈"
             },
@@ -1104,7 +1136,7 @@
               "value": "🚿"
             },
             {
-              "key": "bath_tub",
+              "key": "bath",
               "value": "🛁"
             },
             {
@@ -1112,15 +1144,7 @@
               "value": "🔑"
             },
             {
-              "key": "old_key",
-              "value": "🗝"
-            },
-            {
-              "key": "couch_and_lamp",
-              "value": "🛋"
-            },
-            {
-              "key": "sleeping_accommodation",
+              "key": "nap",
               "value": "🛌"
             },
             {
@@ -1175,14 +1199,7 @@
         "key": "moonchild",
         "value": "☪"
       },
-      {
-        "key": "om_symbol",
-        "value": "🕉"
-      },
-      {
-        "key": "wheel_of_dharma",
-        "value": "☸"
-      },
+
       {
         "key": "yinyang",
         "value": "☯"
@@ -1358,10 +1375,6 @@
         "value": "🈂"
       },
       {
-        "key": "passport_control",
-        "value": "🛂"
-      },
-      {
         "key": "customs",
         "value": "🛃"
       },
@@ -1386,20 +1399,12 @@
         "value": "🚻"
       },
       {
-        "key": "put_litter_in_its_place",
-        "value": "🚮"
-      },
-      {
         "key": "cinema",
         "value": "🎦"
       },
       {
         "key": "signal",
         "value": "📶"
-      },
-      {
-        "key": "squared_ok",
-        "value": "🆗"
       },
       {
         "key": "new",
@@ -1490,18 +1495,6 @@
         "value": "⤵"
       },
       {
-        "key": "keycap_number_sign",
-        "value": "#⃣"
-      },
-      {
-        "key": "keycap_asterisk",
-        "value": "*⃣"
-      },
-      {
-        "key": "information_source",
-        "value": "ℹ"
-      },
-      {
         "key": "musical",
         "value": "🎵"
       },
@@ -1544,10 +1537,6 @@
       {
         "key": "dollar",
         "value": "💲"
-      },
-      {
-        "key": "currency_exchange",
-        "value": "💱"
       },
       {
         "key": "copyright",
@@ -2014,11 +2003,15 @@
               "value": "📝"
             },
             {
+              "key": "homework",
+              "value": "📝"
+            },
+            {
               "key": "pencil",
               "value": "✏"
             },
             {
-              "key": "rayon",
+              "key": "cayon",
               "value": "🖍"
             },
             {
@@ -2044,6 +2037,14 @@
    },
    {
      "key": "tangerine",
+     "value": "🍊"
+   },
+   {
+     "key": "fruits",
+     "value": "🍊"
+   },
+   {
+     "key": "fruit",
      "value": "🍊"
    },
    {
@@ -2299,7 +2300,6 @@
      "key": "dinner",
      "value": "🍽"
    },
-
 
       {
         "key": "umbrella",
