@@ -1,9 +1,10 @@
 extends layout
 block content
-  h1= title
+  h1 #{title}
   form(method='POST' action='/')
     div.form-group
       label(for='name')
-      input#name.form-control(type='text', placeholder='Enter emoji here' name='name' size="50" style.height="1000px")
+      input#name.form-control(type='text', placeholder='Enter emoji here' name='name' size="50" style.height="1000px" )
 
     <button type="submit" class="button_primary" id="1">Emotion Catch</button>
+  <button type="submit" class="second_button" id="pls">Emotion translate</button>

@@ -34,11 +34,37 @@ router.post('/', function(req, res, next) {
             console.log(output);
         }
         callback()
-          }, function(err){});
+      }, function(err){});
         callback()}, function(err){
           res.render('index', { title: output });
         })
 });
+
+router.post('/button', function(req, res, next) {
+
+    var parseInput = req.body.name.split(" ");
+    var output2 = ""
+
+    async1.each(parseInput, function(word, callback){
+      output2+=word+" ";
+      //iterates through emojis in db
+      console.log("print")
+      async2.each(db, function(emoji, callback){
+        //iterates through each emotion in an emoji
+        if( word.toLowerCase() == emoji["key"]){
+            output2 += "("+String.fromCodePoint(emoji["value"].codePointAt(0)) + ") ";
+            console.log(output2);
+        }
+        callback()
+      }, function(err){});
+        callback()}, function(err){
+          console.log ("output " + output2)
+          // res.render('index', { title: output2 });
+          res.send(output2);
+        })
+});
+
+
 
 
 
