@@ -1,13 +1,4 @@
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">       
-            <h2>Example1</h2>       
-            <p align="center">
-  <img width="460" height="300" src="https://github.com/sadchocopie/EmojiGenerator/blob/master/screenshot1.png">
-</p>
-    </div>
-</pre>
-```
-
+# Our First Hackathon Project:
+Clone or Download to your local computer.
+Go to file directory, run: nodemon start.  
+Runs on localhost:3000
